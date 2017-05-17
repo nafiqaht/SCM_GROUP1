@@ -1,7 +1,7 @@
 # SCM_GROUP1
 This is Software Configuration Management Group 1 (Repository).
 
-//This is change made by Khairul
+//This is change made by Khairul and Afiqah
 
 using System;
 using System.Collections.Generic;
